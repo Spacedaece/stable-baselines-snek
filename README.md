@@ -56,7 +56,7 @@ Testing
     logdir = f"logs/{MODELNAME}/"
 
     
-PPO Model Reinforcement Learning
+Model Environment Overview
 Environment 
     
     Actions based on observations 
